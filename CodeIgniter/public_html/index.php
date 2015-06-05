@@ -128,7 +128,7 @@ switch (ENVIRONMENT)
  *
  * NO TRAILING SLASH!
  */
-	$view_folder = 'html';
+	$view_folder = 'themes';
 
 
 /*
